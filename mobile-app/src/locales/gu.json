@@ -12,10 +12,18 @@
     "language": "ભાષા"
   },
   "login": {
-    "user_login": { "label": "વપરાશકર્તા લોગિન" },
-    "user_signup": { "label": "વપરાશકર્તા સાઇન અપ" },
-    "employer_login": { "label": "નિયોક્તા લોગિન" },
-    "employer_signup": { "label": "નિયોક્તા સાઇન અપ" },
+    "user_login": {
+      "label": "વપરાશકર્તા લોગિન"
+    },
+    "user_signup": {
+      "label": "વપરાશકર્તા સાઇન અપ"
+    },
+    "employer_login": {
+      "label": "નિયોક્તા લોગિન"
+    },
+    "employer_signup": {
+      "label": "નિયોક્તા સાઇન અપ"
+    },
     "fullName": "પૂર્ણ નામ",
     "companyName": "કંપનીનું નામ",
     "email": "ઈમેલ",
@@ -422,7 +430,8 @@
     "failedCreate": "ચકાસણી બનાવવામાં નિષ્ફળ",
     "placeholders": {
       "title": "દા.ત., સોફ્ટવેર ડેવલપર, સેલ્સ મેનેજર",
-      "experience": "દા.ત., 0-2 વર્ષ, 2-5 વર્ષ, 5+ વર્ષ"
+      "experience": "દા.ત., 0-2 વર્ષ, 2-5 વર્ષ, 5+ વર્ષ",
+      "jobRoleExample": "દા.ત., ઇલેક્ટ્રિશિયન, કડિયા"
     }
   }
 }

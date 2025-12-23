@@ -12,10 +12,18 @@
     "language": "భాష"
   },
   "login": {
-    "user_login": { "label": "యూజర్ లాగిన్" },
-    "user_signup": { "label": "యూజర్ సైన్ అప్" },
-    "employer_login": { "label": "నియోజకర్త లాగిన్" },
-    "employer_signup": { "label": "నియోజకర్త సైన్ అప్" },
+    "user_login": {
+      "label": "యూజర్ లాగిన్"
+    },
+    "user_signup": {
+      "label": "యూజర్ సైన్ అప్"
+    },
+    "employer_login": {
+      "label": "నియోజకర్త లాగిన్"
+    },
+    "employer_signup": {
+      "label": "నియోజకర్త సైన్ అప్"
+    },
     "fullName": "పూర్తి పేరు",
     "companyName": "కంపెనీ పేరు",
     "email": "ఇమెయిల్",
@@ -422,7 +430,8 @@
     "failedCreate": "ధృవీకరణను సృష్టించడం విఫలమైంది",
     "placeholders": {
       "title": "ఉదా., సాఫ్ట్‌వేర్ డెవలపర్, సేల్స్ మేనేజర్",
-      "experience": "ఉదా., 0-2 సంవత్సరాలు, 2-5 సంవత్సరాలు, 5+ సంవత్సరాలు"
+      "experience": "ఉదా., 0-2 సంవత్సరాలు, 2-5 సంవత్సరాలు, 5+ సంవత్సరాలు",
+      "jobRoleExample": "ఉదా., ఎలక్ట్రీషియన్, తాపీమేస్త్రీ"
     }
   }
 }

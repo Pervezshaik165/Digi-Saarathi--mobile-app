@@ -444,7 +444,8 @@
     "failedCreate": "Failed to create verification",
     "placeholders": {
       "title": "e.g., Software Developer, Sales Manager",
-      "experience": "e.g., 0-2 years, 2-5 years, 5+ years"
+      "experience": "e.g., 0-2 years, 2-5 years, 5+ years",
+      "jobRoleExample": "e.g., Electrician, Mason"
     }
   }
 }

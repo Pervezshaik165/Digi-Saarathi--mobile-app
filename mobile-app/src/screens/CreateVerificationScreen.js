@@ -76,7 +76,7 @@ const CreateVerificationScreen = () => {
                         style={styles.input}
                         value={formData.jobRole}
                         onChangeText={(text) => setFormData({ ...formData, jobRole: text })}
-                        placeholder={t('createVerification.placeholders.title')}
+                        placeholder={t('createVerification.placeholders.jobRoleExample')}
                     />
 
                     <Text style={styles.label}>{t('createVerification.typeOfWork')}</Text>

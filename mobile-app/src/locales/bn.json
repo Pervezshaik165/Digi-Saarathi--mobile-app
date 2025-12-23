@@ -12,10 +12,18 @@
     "language": "ভাষা"
   },
   "login": {
-    "user_login": { "label": "ব্যবহারকারী লগইন" },
-    "user_signup": { "label": "ব্যবহারকারী সাইন আপ" },
-    "employer_login": { "label": "নিয়োগকর্তা লগইন" },
-    "employer_signup": { "label": "নিয়োগকর্তা সাইন আপ" },
+    "user_login": {
+      "label": "ব্যবহারকারী লগইন"
+    },
+    "user_signup": {
+      "label": "ব্যবহারকারী সাইন আপ"
+    },
+    "employer_login": {
+      "label": "নিয়োগকর্তা লগইন"
+    },
+    "employer_signup": {
+      "label": "নিয়োগকর্তা সাইন আপ"
+    },
     "fullName": "পূর্ণ নাম",
     "companyName": "কোম্পানীর নাম",
     "email": "ইমেইল",
@@ -436,7 +444,8 @@
     "failedCreate": "যাচাইকরণ তৈরি করতে ব্যর্থ",
     "placeholders": {
       "title": "যেমন, সফটওয়্যার ডেভেলপার, সেলস ম্যানেজার",
-      "experience": "যেমন, ০-২ বছর, ২-৫ বছর, ৫+ বছর"
+      "experience": "যেমন, ০-২ বছর, ২-৫ বছর, ৫+ বছর",
+      "jobRoleExample": "যেমন, ইলেকট্রিশিয়ান, রাজমিস্ত্রি"
     }
   }
 }

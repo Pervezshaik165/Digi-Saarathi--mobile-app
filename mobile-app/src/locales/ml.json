@@ -12,10 +12,18 @@
     "language": "ഭാഷ"
   },
   "login": {
-    "user_login": { "label": "ഉപയോക്തൃ ലോഗിൻ" },
-    "user_signup": { "label": "ഉപയോക്തൃ സൈൻ അപ്പ്" },
-    "employer_login": { "label": "നിയോഗദാതാവ് ലോഗിൻ" },
-    "employer_signup": { "label": "നിയോഗദാതാവ് സൈൻ അപ്പ്" },
+    "user_login": {
+      "label": "ഉപയോക്തൃ ലോഗിൻ"
+    },
+    "user_signup": {
+      "label": "ഉപയോക്തൃ സൈൻ അപ്പ്"
+    },
+    "employer_login": {
+      "label": "നിയോഗദാതാവ് ലോഗിൻ"
+    },
+    "employer_signup": {
+      "label": "നിയോഗദാതാവ് സൈൻ അപ്പ്"
+    },
     "fullName": "പൂർണ്ണ പേര്",
     "companyName": "കമ്പനി നാമം",
     "email": "ഇമെയില്",
@@ -429,7 +437,8 @@
     "failedCreate": "പരിശോധന സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു",
     "placeholders": {
       "title": "ഉദാ., സോഫ്റ്റ്‌വെയർ ഡെവലപ്പർ, സെയിൽസ് മാനേജർ",
-      "experience": "ഉദാ., 0-2 വർഷം, 2-5 വർഷം, 5+ വർഷം"
+      "experience": "ഉദാ., 0-2 വർഷം, 2-5 വർഷം, 5+ വർഷം",
+      "jobRoleExample": "ഉദാ., ഇലക്ട്രീഷ്യൻ, മേസ്തിരി"
     }
   }
 }

@@ -62,7 +62,7 @@ export const UserSidebar = ({ visible, onClose }) => {
                                 { code: 'hi', label: 'हिंदी' },
                                 { code: 'bn', label: 'বাংলা' },
                                 { code: 'gu', label: 'ગુજરાતી' },
-                                { code: 'kn', label: 'કન્નડ' }, // Correction: Kannada is ಕನ್ನಡ, will fix in next step if I can't write unicode. Actually better to use unicode directly.
+                                { code: 'kn', label: 'ಕನ್ನಡ' }, // Correction: Kannada is ಕನ್ನಡ, will fix in next step if I can't write unicode. Actually better to use unicode directly.
                                 { code: 'ml', label: 'മലയാളം' },
                                 { code: 'mr', label: 'मરાઠી' }, // Typo in Marathi? Should be मराठी. I will verify scripts.
                                 { code: 'ta', label: 'தமிழ்' },

@@ -12,10 +12,18 @@
     "language": "ಭಾಷೆ"
   },
   "login": {
-    "user_login": { "label": "ಬಳಿಕೆದಾರ ಲಾಗಿನ್" },
-    "user_signup": { "label": "ಬಳಕೆದಾರ ಸೈನ್ ಅಪ್" },
-    "employer_login": { "label": "When ಸಂಪರ್ಕ" },
-    "employer_signup": { "label": "When ಸಂಪರ್ಕ ಸೈನ್ ಅಪ್" },
+    "user_login": {
+      "label": "ಬಳಿಕೆದಾರ ಲಾಗಿನ್"
+    },
+    "user_signup": {
+      "label": "ಬಳಕೆದಾರ ಸೈನ್ ಅಪ್"
+    },
+    "employer_login": {
+      "label": "When ಸಂಪರ್ಕ"
+    },
+    "employer_signup": {
+      "label": "When ಸಂಪರ್ಕ ಸೈನ್ ಅಪ್"
+    },
     "fullName": "ಸಂಪೂರ್ಣ ಹೆಸರು",
     "companyName": "ಕಂಪನಿಯ ಹೆಸರು",
     "email": "ಇಮೇಲ್",
@@ -422,7 +430,8 @@
     "failedCreate": "ಪರಿಶೀಲನೆ ರಚಿಸಲು ವಿಫಲವಾಗಿದೆ",
     "placeholders": {
       "title": "ಉದಾ., ಸಾಫ್ಟ್‌ವೇರ್ ಡೆವಲಪರ್, ಸೇಲ್ಸ್ ಮ್ಯಾನೇಜರ್",
-      "experience": "ಉದಾ., 0-2 ವರ್ಷ, 2-5 ವರ್ಷ, 5+ ವರ್ಷ"
+      "experience": "ಉದಾ., 0-2 ವರ್ಷ, 2-5 ವರ್ಷ, 5+ ವರ್ಷ",
+      "jobRoleExample": "ಉದಾ., ಎಲೆಕ್ಟ್ರಿಷಿಯನ್, ಮೇಸ್ತ್ರಿ"
     }
   }
 }

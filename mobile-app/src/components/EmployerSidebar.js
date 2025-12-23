@@ -64,7 +64,7 @@ export const EmployerSidebar = ({ visible, onClose }) => {
                                 { code: 'hi', label: 'हिंदी' },
                                 { code: 'bn', label: 'বাংলা' },
                                 { code: 'gu', label: 'ગુજરાતી' },
-                                { code: 'kn', label: 'કન્નડ' }, // Checking correct Kannada script: ಕನ್ನಡ. I will fix this in the content string below.
+                                { code: 'kn', label: 'ಕನ್ನಡ' }, // Checking correct Kannada script: ಕನ್ನಡ. I will fix this in the content string below.
                                 { code: 'ml', label: 'മലയാളം' },
                                 { code: 'mr', label: 'मરાઠી' }, // Checking correct Marathi script: मराठी.
                                 { code: 'ta', label: 'தமிழ்' },

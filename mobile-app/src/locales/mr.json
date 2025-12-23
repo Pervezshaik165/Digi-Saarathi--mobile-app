@@ -12,10 +12,18 @@
     "language": "भाषा"
   },
   "login": {
-    "user_login": { "label": "वापरकर्ता लॉगिन" },
-    "user_signup": { "label": "वापरकर्ता साइन अप" },
-    "employer_login": { "label": "नियोक्ता लॉगिन" },
-    "employer_signup": { "label": "नियोक्ता साइन अप" },
+    "user_login": {
+      "label": "वापरकर्ता लॉगिन"
+    },
+    "user_signup": {
+      "label": "वापरकर्ता साइन अप"
+    },
+    "employer_login": {
+      "label": "नियोक्ता लॉगिन"
+    },
+    "employer_signup": {
+      "label": "नियोक्ता साइन अप"
+    },
     "fullName": "पूर्ण नाव",
     "companyName": "कंपनीचे नाव",
     "email": "ईमेल",
@@ -422,7 +430,8 @@
     "failedCreate": "सत्यापन तयार करण्यात अयशस्वी",
     "placeholders": {
       "title": "उदा., सॉफ्टवेअर डेव्हलपर, सेल्स मॅनेजर",
-      "experience": "उदा., ०-२ वर्षे, २-५ वर्षे, ५+ वर्षे"
+      "experience": "उदा., ०-२ वर्षे, २-५ वर्षे, ५+ वर्षे",
+      "jobRoleExample": "उदा., इलेक्ट्रिशियन, गवंडी"
     }
   }
 }
